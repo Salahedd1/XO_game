@@ -1,2 +1,2 @@
-#XO_Game
-This a game built using Java
+# XO Game
+This is an XO game for two players built using Java
